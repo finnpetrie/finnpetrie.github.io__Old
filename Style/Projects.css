@@ -54,3 +54,8 @@ video {
     object-fit: cover;
     z-index: -1;
 }
+
+.close {
+    color: #fff; 
+    opacity: 1;
+}
