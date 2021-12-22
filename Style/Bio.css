@@ -1,0 +1,14 @@
+.text-light{
+    text-align: center;
+}
+
+.title{
+ background-color:rgba(194, 234, 241, 0.336);
+ text-align: center;
+ color:rgb(196, 127, 186);
+
+}
+
+.CV{
+    padding: 20px;
+}
