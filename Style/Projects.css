@@ -37,6 +37,9 @@ video {
     transition: all 0.5s ease;
 }
 
+.figcaption{
+    color: white;
+}
 .project-text {
     -webkit-filter: opacity(0);
     color: white;
